@@ -1,0 +1,16 @@
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Release\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Release\QuickLauch.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Release\QuickLauch.MyForm.resources
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Release\QuickLauch.vcxproj.GenerateResource.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLaunch\QuickLauch\x64\Release\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLaunch\QuickLauch\x64\Release\QuickLauch.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLaunch\QuickLauch\x64\Release\QuickLauch.MyForm.resources
+C:\Users\artec\OneDrive\Рабочий стол\QuickLaunch\QuickLauch\x64\Release\QuickLauch.vcxproj.GenerateResource.cache
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка\QuickLauch\x64\Release\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка\QuickLauch\x64\Release\QuickLauch.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка\QuickLauch\x64\Release\QuickLauch.MyForm.resources
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка\QuickLauch\x64\Release\QuickLauch.vcxproj.GenerateResource.cache
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка (2)\QuickLauch\x64\Release\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка (2)\QuickLauch\x64\Release\QuickLauch.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка (2)\QuickLauch\x64\Release\QuickLauch.MyForm.resources
+C:\Users\artec\OneDrive\Рабочий стол\Новая папка (2)\QuickLauch\x64\Release\QuickLauch.vcxproj.GenerateResource.cache

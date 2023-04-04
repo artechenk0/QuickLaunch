@@ -1,0 +1,7 @@
+C:\Users\artec\source\repos\QuickLauch\QuickLauch\Debug\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\source\repos\QuickLauch\QuickLauch\Debug\QuickLauch.MyForm.resources
+C:\Users\artec\source\repos\QuickLauch\QuickLauch\Debug\QuickLauch.vcxproj.GenerateResource.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\Debug\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\Debug\QuickLauch.MyForm.resources
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\Debug\QuickLauch.vcxproj.GenerateResource.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\Debug\logo.bmp

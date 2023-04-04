@@ -1,0 +1,4 @@
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Debug\QuickLauch.MyForm.resources
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Debug\QuickLauch.vcxproj.GenerateResource.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Debug\QuickLauch.vcxproj.AssemblyReference.cache
+C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\QuickLauch\x64\Debug\QuickLauch.vcxproj.SuggestedBindingRedirects.cache

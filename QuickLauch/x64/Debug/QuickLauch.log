@@ -1,0 +1,7 @@
+﻿  Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.35.32216.1
+  для Microsoft (R) .NET Framework версии 4.08.4515.0
+  (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+  cl /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\\" /AI"C:\Program Files (x86)\Windows Kits\10\References" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Facades\\" /Zi /clr /W3 /WX- /diagnostics:column /Od /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.dll" /FC /errorReport:prompt /clr:nostdlib MyForm.cpp
+  MyForm.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  QuickLauch.vcxproj -> C:\Users\artec\OneDrive\Рабочий стол\QuickLauch\x64\Debug\QuickLauch.exe
